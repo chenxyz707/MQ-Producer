@@ -13,7 +13,7 @@
 <head>
     <base href="<%=basePath%>">
 
-    <title>RabbitMQ Demo程序</title>
+    <title>RabbitMQ Demo程序1111</title>
 
     <meta http-equiv="pragma" content="no-cache">
     <meta http-equiv="cache-control" content="no-cache">
